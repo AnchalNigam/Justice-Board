@@ -13,6 +13,11 @@ Instructions to use
 
 Screenshots
 
+![screencapture-localhost-1234-legal-index-php-1510157487626](https://user-images.githubusercontent.com/32920850/32559807-0d2a31a2-c4ce-11e7-9251-4dd8a60f64a2.png)
+![screencapture-localhost-1234-legal-second-php-1510157508623](https://user-images.githubusercontent.com/32920850/32559859-2da2cc3c-c4ce-11e7-90c0-67a16d71e193.png)
+![screencapture-localhost-1234-legal-allahabad-php-1510157545246](https://user-images.githubusercontent.com/32920850/32559907-4e2850da-c4ce-11e7-8d12-8feaf360c708.png)
+![screencapture-localhost-1234-legal-details2-php-1510157562716](https://user-images.githubusercontent.com/32920850/32559909-4e76c7f6-c4ce-11e7-81cf-c3887cfc0bcf.png)
+![screencapture-localhost-1234-legal-third-php-1510157527964](https://user-images.githubusercontent.com/32920850/32559910-4ec17382-c4ce-11e7-9fcb-58c78cc88b08.png)
 
 Files
 
